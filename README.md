@@ -1,0 +1,5 @@
+# Introdução
+
+O eterno embate entre popularidade e qualidade de um produto midiático sempre foi um tópico de interesse daqueles que o consomem. A maioria das pessoas gostaria que aquele produto que tanto admira seja considerado de qualidade, afinal ninguém gosta de ouvir que uma obra adorada é inferior. Porém, muitos trabalhos independem da opinião de um especialista para ganharem o coração do público. Os Video Games não são uma excessão. Enquanto jogos avaliados por críticos especialistas como obras primas costumam fazer sucesso, existem também os que são considerados medíocres e mesmo assim vendem milhões pelo mundo.
+
+De outro modo, podemos analisar também mais um aspecto que influencia enormemente no êxito comercial de um Video Game, seu gênero. É sabido que jogos violentos normalmente são o centro das atenções, mas existem vários outros tipos de jogos que bombam no mercado. Isso também traz uma reflexão em relação às populações que consomem a maior quantidade de um determinado gênero de entretenimento, já que de uma forma ou de outra, esses elementos influenciam na formação do jogador.
